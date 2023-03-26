@@ -1,0 +1,5 @@
+outs:
+- md5: 9786bf0211fa94942cabe35da2958d47.dir
+  size: 35123906
+  nfiles: 2
+  path: blackfriday
